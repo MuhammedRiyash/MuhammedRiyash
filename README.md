@@ -30,7 +30,7 @@ I enjoy owning projects end-to-end — from UI development to optimization and d
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MuhammedRiyash&theme=radical&hide_border=false)<br/>
 ![](https://streak-stats.demolab.com?user=MuhammedRiyash&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedRiyash&theme=radical&hide_border=false&layout=compact)
+![Most Used Languages (all repos incl. private)](assets/top-langs.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
