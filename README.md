@@ -16,6 +16,18 @@ PostgreSQL/MySQL schemas, Razorpay payment flows, OTP/2FA auth, and Playwright t
 
 ---
 
+## AI-native workflow
+
+[![Claude Code](https://img.shields.io/badge/Claude_Code-daily_driver-D97757?style=flat-square&logo=claude&logoColor=white)](https://www.anthropic.com/claude-code)
+[![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-111111?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
+[![Anthropic](https://img.shields.io/badge/Anthropic-Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+
+- **Claude Code daily driver** — 2,900+ prompts across 13 production repos since Mar 2026, using background agents; also **Google Antigravity**.
+- **Agent-ready repos** — work in codebases with `CLAUDE.md` / `AGENTS.md` conventions (co-maintain zethic.com's `CLAUDE.md`) and **MCP servers**: Laravel Boost, Astro Docs, Plane, plus **Playwright MCP** for browser testing.
+- **LLM features** — built an AI content SaaS on the **Claude and OpenAI APIs** (blog/video → X threads and LinkedIn carousels).
+
+---
+
 ## Now
 
 **Full-Stack Developer at [Zethic Technologies](https://zethic.com), Bengaluru** (Feb 2026 – present). Company code is private; public facts:
