@@ -26,7 +26,7 @@ PostgreSQL/MySQL schemas, Razorpay payment flows, OTP/2FA auth, and Playwright t
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-2b3137?style=flat-square)
 
-Ships LLM features on the Claude and OpenAI APIs (AI content SaaS).
+Builds LLM features on the Claude and OpenAI APIs (AI content SaaS, in progress).
 
 ---
 
