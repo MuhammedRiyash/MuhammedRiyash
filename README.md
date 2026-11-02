@@ -1,39 +1,77 @@
-# 💫 About Me:
+# Muhammed Riyash J — Full-Stack Developer
 
-👋 Hi, I'm **Muhammed Riyash J**
+**React · Next.js · TypeScript · Node.js · Laravel · PostgreSQL** — headless e-commerce, payments and AI/LLM apps. Bengaluru, India.
 
-🚀 Front-End | WordPress | Shopify Developer
-📍 Kanchipuram, Tamil Nadu, India
-📧 thisismd.riyash@gmail.com | 📞 +91 70948 36267
-🌐 Portfolio: https://md-riyash-portfolio.vercel.app/
-🔗 LinkedIn: https://www.linkedin.com/in/muhammed-riyash-5a0774393
+I build the storefront a customer sees and the commerce engine behind it: server-rendered storefronts, REST APIs and business rules,
+PostgreSQL/MySQL schemas, Razorpay payment flows, OTP/2FA auth, and Playwright tests that run against the live store.
+3+ years, 20+ sites shipped to production.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-md--riyash--portfolio.vercel.app-111111?style=flat-square)](https://md-riyash-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fmuhammedriyash-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedriyash)
+[![Email](https://img.shields.io/badge/Email-thisismd.riyash%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thisismd.riyash@gmail.com)
+[![Services](https://img.shields.io/badge/Services-muhammedriyash.github.io%2FWebsite-2b3137?style=flat-square)](https://muhammedriyash.github.io/Website/)
+[![CV](https://img.shields.io/badge/CV-1%20page%20PDF-1F3A5F?style=flat-square)](https://md-riyash-portfolio.vercel.app/Muhammed_Riyash_J_Resume.pdf)
 
-### 👨‍💻 About Me
-
-I'm a Frontend & WordPress/Shopify Developer with 3+ years of remote freelance experience, delivering 12+ high-performing websites and custom WordPress plugins for SMEs and startups.
-
-I specialize in converting business requirements into responsive, SEO-optimized, performance-driven digital solutions, achieving:
-- ⚡ PageSpeed scores of 85+
-- 📈 10–25% conversion improvements
-- 🛠️ 40% reduction in support queries
-
-I enjoy owning projects end-to-end — from UI development to optimization and deployment.
-
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=%23FF7139)](https://md-riyash-portfolio.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-riyash-5a0774393) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/riyash.x.x/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thisismd.riyash@gmail.com)
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-# 📊 GitHub Stats:
-![GitHub Stats (all repos incl. private)](assets/stats.svg)<br/>
-![GitHub Streak](assets/streak.svg)<br/>
-![Most Used Languages (all repos incl. private)](assets/top-langs.svg)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Open to Full-Stack Developer roles** at product, SaaS, e-commerce and AI companies — Bengaluru or remote (India).
 
 ---
-[![](https://komarev.com/ghpvc/?username=MuhammedRiyash&style=for-the-badge&label=Profile+Views)](https://github.com/MuhammedRiyash)
+
+## Now
+
+**Full-Stack Developer at [Zethic Technologies](https://zethic.com), Bengaluru** (Feb 2026 – present). Company code is private; public facts:
+
+- **Young Onion storefront** — new Astro SSR + Preact + TypeScript storefront replacing the WordPress store at youngonion.in. Top contributor: 79 of 168 merged pull requests across product pages, cart, checkout, accounts and SEO schema.
+- **ZetStore** — multi-store Laravel 13 commerce platform behind GD Farm Fresh and Young Onion: GSTR-1 reports with CSV export, coupon- and shipping-aware GST, back-in-stock waitlist, and server-side checks on purchase orders, returns, stock transfers and warehouses (110 pull requests).
+- **GD Farm Fresh** — live headless storefront (Astro, Preact, Tailwind CSS on Cloudflare) over the ZetStore API, with fixes covered by Playwright tests.
+- **Mystery Box** — WooCommerce fulfilment plugin that fills orders automatically on payment: custom tables, REST endpoints, WP-CLI, 146 automated tests.
+
+## Featured projects (independent builds, 2026)
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **360 Home Healthcare** | Live home-healthcare marketplace: five-step OTP booking, provider KYC onboarding, admin console; AES-256-GCM encrypted patient data with blind indexes | Next.js · TypeScript · Prisma · PostgreSQL · Auth.js · Tailwind CSS | [Live site](https://360homehealthcare.in/) · [Case study](https://github.com/MuhammedRiyash/doc2home-showcase) |
+| **Fiomis** | Headless clothing store: Razorpay orders completed by server-side webhook, GST invoicing, append-only stock ledger, admin OTP + 2FA + RBAC | Astro · React · Medusa v2 (Node.js) · PostgreSQL · Redis · Playwright | [Case study](https://github.com/MuhammedRiyash/fiomis-showcase) |
+| **Inventra** | Inventory SaaS for SMB retail/wholesale: vendors → purchase orders → warehouses → JIT → billing, 15+ inventory ratios, EOQ, 4 roles | Next.js 16 · TypeScript · Prisma · PostgreSQL · NextAuth · shadcn/ui · Vitest · Playwright | [Case study](https://github.com/MuhammedRiyash/inventra-showcase) |
+| **AI content SaaS** | Turns blog posts and videos into X threads and LinkedIn carousels (unreleased) | Next.js · Claude API · OpenAI GPT API | [Ask for a walkthrough](mailto:thisismd.riyash@gmail.com?subject=AI%20content%20SaaS%20walkthrough) |
+| **Portfolio** | This portfolio: case studies, printable CV, static fallback for no-JS / reduced motion | Astro · TypeScript · GSAP · three.js | [Live](https://md-riyash-portfolio.vercel.app/) · [Code](https://github.com/MuhammedRiyash/Portfolio) |
+| **Services site** | Full-stack web development services site with 7 case studies | Astro · TypeScript · Tailwind CSS · GitHub Pages | [Live](https://muhammedriyash.github.io/Website/) · [Code](https://github.com/MuhammedRiyash/Website) |
+
+Source for the private projects is shared on request — the case-study repos have a one-click access request.
+
+## Tech stack
+
+**Languages:** TypeScript · JavaScript (ES6+) · PHP · SQL · HTML5 · CSS3 · Python (scripting)  
+**Frontend:** React · Next.js · Astro (SSR/SSG) · Preact · Tailwind CSS · Vite · Redux Toolkit · Material UI  
+**Backend & data:** Node.js · Laravel · Medusa v2 · REST APIs · Prisma · PostgreSQL · MySQL · Redis  
+**Payments, auth & AI:** Razorpay · OTP / 2FA / RBAC · Auth.js / NextAuth · LLM APIs (Claude, OpenAI GPT)  
+**E-commerce & CMS:** headless commerce · WooCommerce (REST API, WP-CLI) · WordPress plugins · Shopify (Liquid, metafields)  
+**Testing & performance:** Playwright · Vitest · PHPUnit · axe-core · Lighthouse · Core Web Vitals  
+**Infra & tools:** Git · GitHub Actions · Docker · Cloudflare · Vercel · Nginx · Coolify · GTM / GA4 · Jira · Agile/Scrum
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
+
+## Experience
+
+- **Zethic Technologies LLP**, Bengaluru — Full-Stack Developer · Feb 2026 – present
+- **Freelance** (remote) — Full-Stack, WordPress and Shopify Developer · Sep 2023 – Dec 2025: 12+ WordPress/Shopify sites for SMEs and startups, 3 custom plugins (lead management, WooCommerce order tracking, WooCommerce referrals), Shopify CRO on 3 stores (~10% conversion, +12% AOV)
+- **Besant Technologies**, Chennai — Full-Stack Developer Intern · Jan – Aug 2023: built Taskify with React, Redux Toolkit, Material UI and Laravel REST APIs
+
+**Education:** MCA, SRM University Sikkim (Apr 2025 – Aug 2027, expected) · B.Com, RDB College of Arts and Science (2019 – 2022)
+
+## Languages used across my repositories (incl. private)
+
+![Most used languages across all repositories, including private](assets/top-langs.svg)
